@@ -9,11 +9,11 @@
 **⚡ Инструменты/программы с которыми я пользуюсь чаще всего:**
 - Microsoft Visual Studio Code - https://code.visualstudio.com/
 - Eclipse - https://www.eclipse.org/
+- Sublime Text 3 - https://www.sublimetext.com/3
 - Notepad++ - https://notepad-plus-plus.org/downloads/
 - FileZilla - https://filezilla.ru/
 - WinSCP - https://winscp.net/eng/index.php
 - Unity (Бесплатная версия) - https://unity.com/ru
-- Sublime Text 3 - https://www.sublimetext.com/3
 
 **⚡ Меня можно встретить не только тут:**
 - Discord Tag - MishaNeYT#5933
