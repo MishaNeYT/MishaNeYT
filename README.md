@@ -15,6 +15,13 @@
 - Unity (Бесплатная версия) - https://unity.com/ru
 - Sublime Text 3 - https://www.sublimetext.com/3
 
+**⚡ Меня можно встретить не только тут:**
+- Discord Tag - MishaNeYT#5933
+- Steam - https://steamcommunity.com/profiles/76561199110593582/
+- YouTube - https://www.youtube.com/channel/UCFH6xz-qc-ERk-MqC56FK3g
+- Vkontakte - https://vk.com/mishapavlovyakutsk
+- Spotify - https://open.spotify.com/user/04eaaomokd1o8sj4mocxzq6e0
+
 <!--
 **MishaNeYT/MishaNeYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
