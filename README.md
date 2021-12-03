@@ -17,9 +17,9 @@
 
 **⚡ Меня можно встретить не только тут:**
 - Discord Tag - MishaNeYT#5933
-- Steam - https://steamcommunity.com/profiles/76561199110593582/
 - YouTube - https://www.youtube.com/channel/UCFH6xz-qc-ERk-MqC56FK3g
 - Vkontakte - https://vk.com/mishapavlovyakutsk
+- Steam - https://steamcommunity.com/profiles/76561199110593582/
 - Spotify - https://open.spotify.com/user/04eaaomokd1o8sj4mocxzq6e0
 
 <!--
