@@ -10,7 +10,6 @@
 - Microsoft Visual Studio Code - https://code.visualstudio.com/
 - Eclipse - https://www.eclipse.org/
 - Sublime Text 3 - https://www.sublimetext.com/3
-- Notepad++ - https://notepad-plus-plus.org/downloads/
 - FileZilla - https://filezilla.ru/
 - WinSCP - https://winscp.net/eng/index.php
 - Unity (Бесплатная версия) - https://unity.com/ru
@@ -20,7 +19,6 @@
 - YouTube - https://www.youtube.com/channel/UCFH6xz-qc-ERk-MqC56FK3g
 - Vkontakte - https://vk.com/mishapavlovyakutsk
 - Steam - https://steamcommunity.com/profiles/76561199110593582/
-- Spotify - https://open.spotify.com/user/04eaaomokd1o8sj4mocxzq6e0
 
 <!--
 **MishaNeYT/MishaNeYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
