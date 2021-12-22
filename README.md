@@ -8,7 +8,9 @@
 
 **⚡ Инструменты/программы с которыми я пользуюсь чаще всего:**
 - Microsoft Visual Studio Code - https://code.visualstudio.com/
+- IntelliJ IDEA - https://www.jetbrains.com/ru-ru/idea/download/
 - Eclipse - https://www.eclipse.org/
+- Atom - https://atom.io/
 - Sublime Text 3 - https://www.sublimetext.com/3
 - FileZilla - https://filezilla.ru/
 - WinSCP - https://winscp.net/eng/index.php
