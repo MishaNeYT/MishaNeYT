@@ -1,9 +1,10 @@
-<h1>Всех приветствую :D</h1>
-<h4>Я начинающий программист. Меня зовут Михаил, мне 15 лет. В данный момент изучаю Java и Python. Пишу плагины для Minecraft, создаю игры в Unity и пишу своих собственных ботов.</h4>
+## 👋 Всех приветствую!
+- Меня зовут Михаил, мне 15 лет. Я начинающий программист. Изучаю Java, Python и C#. Пишу плагины для Minecraft и пишу собственных ботов. Занимаюсь этим делом больше года.</h4>
 
-<h3>Мои часто используемые инструменты:</h3>
-<p> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Мои часто используемые инструменты:
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-![MishaNeYT's streak](https://github-readme-streak-stats.herokuapp.com/?user=MishaNeYT&theme=dark&hide_border=true)
+## Присоединился в GitHub - Июль 30, 2020 год.
+- Зачем? Очень сильно увлёкся программированиям, учился благодаря видео урокам, частично с помощью онлайн книг. Большую часть опыта получил благодаря ночным часам работы xD
 
-<h4>Присоединился в GitHub - Июль 30, 2020 год.</h4>
+![Snek](https://raw.githubusercontent.com/jewlexx/jewlexx/snake/github-contribution-grid-snake.svg)
