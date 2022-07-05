@@ -1,8 +1,8 @@
 ### БИОГРАФИЯ:
 Меня зовут Михаил, мне 16 лет, я начинающий программист. Изучаю Java, Python и C#. Пишу плагины для Minecraft и собственных ботов. Занимаюсь этим делом больше года.
 
-### МОИ ЧАСТО ИСПОЛЬЗУЕМЫЕ ИНСТРУМЕНТЫ:
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+### МОИ ИСПОЛЬЗУЕМЫЕ ИНСТРУМЕНТЫ:
+ <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="50" height="50" />   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50" />   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="50" height="50" />   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="idea" width="50" height="50" />   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudio" width="50" height="50" />   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="50" height="50" />    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></p>
 
 ### ПРИСОЕДИНИЛСЯ В GitHub - ИЮЛЬ 30, 2020 ГОД.
 Зачем? Очень сильно увлёкся программированием, учился благодаря YouTube видео урокам, частично с помощью онлайн книг. Большую часть опыта получил благодаря ночным часовым работам, не отходя от пк :)
