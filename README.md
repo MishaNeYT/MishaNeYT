@@ -4,6 +4,5 @@
 <h4 align="center">
 
    [![My Skills](https://skillicons.dev/icons?i=java,idea,vscode,maven,gradle,mysql&theme=dark)](https://github.com/MishaNeYT)
-   [![Snek](https://raw.githubusercontent.com/jewlexx/jewlexx/snake/github-contribution-grid-snake.svg)](https://github.com/MishaNeYT)
 
 </h4>
